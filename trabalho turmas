@@ -36,5 +36,12 @@ programa {
                
             }
            
+           para (Mturma = 0; Mturma <= 2; Mturma ++)
+           {
+                para (Mindice = 0; Mindice < 5; Mindice ++)
+                {
+                escreva ("aluno",Mnome[ Mindice] )    
+                }
+           }
     }
 }
